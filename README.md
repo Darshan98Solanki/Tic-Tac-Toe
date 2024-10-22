@@ -75,10 +75,6 @@ This project implements a **Tic Tac Toe** game using hand gestures for interacti
 - Implement multiplayer mode where two players can play from different devices.
 - Add AI to allow single-player mode against the computer.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Let me know if you’d like any modifications!
