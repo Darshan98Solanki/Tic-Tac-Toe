@@ -1,5 +1,3 @@
-Here’s a great README for your Tic-Tac-Toe project:
-
 ---
 
 # Tic Tac Toe with Hand Gesture Recognition
